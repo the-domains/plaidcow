@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PlaidCow]]></title>
         <description><![CDATA[PlaidCow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plaidcow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:35:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:38:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plaidcow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hey</p>]]></description>
-            <link>undefined715a4a2d-c4e1-4b8e-a6c3-9df88fb57115/index.html</link>
+            <description><![CDATA[<p>Hey </p>]]></description>
+            <link>https://thegrid.ai/plaidcow/715a4a2d-c4e1-4b8e-a6c3-9df88fb57115/index.html</link>
             <guid isPermaLink="false">715a4a2d-c4e1-4b8e-a6c3-9df88fb57115</guid>
-            <pubDate>Fri, 04 Mar 2016 19:34:50 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 19:37:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
