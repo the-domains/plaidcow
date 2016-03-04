@@ -1,6 +1,6 @@
 name: PlaidCow
 favicon: null
-layout_spectrum: 0.5161996812094003
+layout_spectrum: 0.92067
 typography_spectrum: 0.48159971949644387
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.38236547680571675
-  lightness: 0.9023758007679135
-  saturation: 0.19158950611017644
-  rhythmicContrast: 0.1638951231725514
+    - '#1e262f'
+    - '#ffffff'
+    - '#f570a7'
+    - '#aaadb0'
+    - '#73777d'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
